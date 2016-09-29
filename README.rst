@@ -27,7 +27,7 @@ To install ViDiPy, simply follow the following instructions:
 .. code-block:: bash
 
 	$ cd vidiPy
-	$ python package setup.py sdist
+	$ python setup.py sdist
 	$ cd dist
 	$ pip install vidi-2.0.0.zip
 
