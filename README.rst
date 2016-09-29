@@ -4,6 +4,7 @@ Python wrapper around ViDi Runtime API
 How to use : 
 
 .. code-block:: python
+
 	>>> import vidi
 	>>> # load the dll
 	>>> control = vidi.Runtime() 
@@ -24,6 +25,7 @@ To install ViDiPy, simply follow the following instructions:
 
 
 .. code-block:: bash
+
 	$ cd vidiPy
 	$ python package setup.py sdist
 	$ cd dist
